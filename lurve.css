@@ -1,0 +1,88 @@
+#qwe {
+    color: antiquewhite;
+    opacity: 0.482;
+    background: rgb(0, 0, 0);
+    width: 13%;
+    text-align: center;
+}
+
+.qws {
+    width: 12%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.qws a {
+    text-decoration: none;
+}
+
+.qws a:hover {
+    color: darkgreen;
+}
+
+* {
+    padding: 0%;
+    margin: 1px;
+}
+
+:root {
+    --wonder-ful: rgba(158, 243, 229, 0.45);
+}
+
+.hero {
+    background: var(--wonder-ful);
+}
+
+body {
+    background: var(--wonder-ful);
+}
+
+.ufg {
+    width: 50vw;
+    height: 60vh;
+}
+
+#b_itch {
+    display: flex;
+}
+
+.homealo {
+    position: relative;
+    left: 25px;
+    top: 5px;
+    font-size: 23px;
+}
+
+.flood {
+    border-style: solid;
+    border-color: rgba(173, 219, 61, 0.58);
+    border-radius: 13px;
+    background: rgba(123, 61.8, 239, 0.7);
+}
+
+#cur {
+    position: relative;
+    top: 7px;
+    left: 4px;
+    height: 50vh;
+}
+
+.eeee {
+    display: flex;
+}
+
+.hjhj {
+    position: relative;
+    top: 120px;
+    left: 150px;
+    font-size: 30px;
+}
+
+.hjhj a {
+    text-decoration: none;
+}
+
+.alth {
+    position: relative;
+    left: 40px;
+}

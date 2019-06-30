@@ -1,0 +1,77 @@
+#qwe {
+    color: antiquewhite;
+    opacity: 0.482;
+    background: rgb(0, 0, 0);
+    width: 13%;
+    text-align: center;
+}
+
+.qws {
+    width: 12%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.qws a {
+    text-decoration: none;
+}
+
+.qws a:hover {
+    color: darkgreen;
+}
+
+* {
+    padding: 0%;
+    margin: 1px;
+}
+
+:root {
+    --wonder-ful: rgba(158, 243, 229, 0.45);
+}
+
+.hero {
+    background: var(--wonder-ful);
+}
+
+#hum {
+    display: flex;
+}
+
+body {
+    background: var(--wonder-ful);
+}
+
+#tyu {
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+
+#tuy {
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+
+#bnm {
+    width: 50%;
+    height: 70%;
+}
+
+#vbn {
+    width: 50%;
+    height: 70%;
+}
+
+#cvb {
+    width: 50%;
+    height: 70%;
+}
+
+.qlq {
+    display: flex;
+}
+
+.gggg {
+    text-align: center;
+}

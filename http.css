@@ -1,0 +1,168 @@
+:root {
+    --wonder-ful: rgba(158, 243, 229, 0.45);
+}
+
+* {
+    padding: 0%;
+    margin: 1px;
+}
+
+body {
+    background: var(--wonder-ful);
+}
+
+.bitofWho {
+    background-size: cover;
+    width: 70%;
+    height: 70vh;
+}
+
+.patpatpa {
+    box-shadow: 0px 3px 3px 1.75px rgba(230, 23, 119, 0.799);
+}
+
+.asfdsg {
+    box-shadow: 0px 3px 3px 1.75px rgb(182, 94, 233);
+}
+
+#qwe {
+    color: antiquewhite;
+    opacity: 0.482;
+    background: rgb(0, 0, 0);
+    width: 13%;
+    text-align: center;
+}
+
+.qws {
+    width: 12%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.qws a {
+    text-decoration: none;
+}
+
+.qws a:hover {
+    color: darkgreen;
+}
+
+.wewe {
+    padding: 80px;
+    margin: 0px;
+    background-color: red;
+    display: flex;
+    color: white;
+    height: 48.5vh;
+    align-items: center;
+    background-size: cover;
+    float: right;
+}
+
+.usus {
+    height: 48.5vh;
+    float: right;
+    color: white;
+    padding: 80px;
+    display: flex;
+    margin: 0px;
+    background-color: blue;
+    align-items: center;
+}
+
+#ert {
+    display: flex;
+    width: 100%;
+}
+
+.wfg {
+    display: flex;
+}
+
+.wert {
+    opacity: 0.35;
+    color: grey;
+}
+
+.ghj {
+    width: 60%;
+    height: 65vh;
+}
+
+.jhg {
+    width: 65%;
+    height: 60vh;
+}
+
+.xcv {
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+    left: 1px;
+}
+
+.ddd {
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+    left: 1px;
+}
+
+.kkk {
+    display: flex;
+}
+
+@media (max-width: 50%) {
+    body {
+        width: 50%;
+        height: 50%;
+    }
+}
+
+.mmn {
+    font-size: 37.7px;
+}
+
+.bcx {
+    height: 50%;
+    width: 50%;
+}
+
+.yyy {
+    float: right;
+    height: 680px;
+    width: 800px;
+}
+
+.lll {
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+}
+
+.qww {
+    display: flex;
+}
+
+.fff {
+    display: flex;
+}
+
+.ccc {
+    width: 75%;
+    height: 65%;
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+
+.aaa {
+    display: block;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.dfg {
+    font-size: 20px;
+}

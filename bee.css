@@ -1,0 +1,118 @@
+#qwe {
+    color: antiquewhite;
+    opacity: 0.482;
+    background: rgb(0, 0, 0);
+    width: 13%;
+    text-align: center;
+}
+
+.qws {
+    width: 12%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.qws a {
+    text-decoration: none;
+}
+
+.qws a:hover {
+    color: darkgreen;
+}
+
+* {
+    padding: 0%;
+    margin: 1px;
+}
+
+:root {
+    --wonder-ful: rgba(158, 243, 229, 0.45);
+}
+
+.hero {
+    background: var(--wonder-ful);
+}
+
+body {
+    background: var(--wonder-ful);
+}
+
+.youth {
+    height: 85vh;
+    width: 22%;
+}
+
+#human_race {
+    display: flex;
+    width: 100%;
+}
+
+.mary1 {
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: lightcoral;
+}
+
+.mary2 {
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: lightsalmon;
+}
+
+.mary3 {
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: lightgreen;
+}
+
+.oGoo {
+    position: relative;
+    top: 5px;
+}
+
+.wwwdot {
+    color: black;
+    text-align: center;
+    font-weight: 700;
+}
+
+.wwwdot a {
+    text-decoration: none;
+}
+
+.worldisaroundyou {
+    position: relative;
+    top: 7px;
+    width: 70%;
+    height: 70vh;
+}
+
+.homie {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.homie a {
+    color: teal;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.homie a:hover {
+    color: lightcoral;
+    transform: scale(3.1);
+    font-family: 'Lucida Grande', sans-serif;
+    font-size: 0%;
+}
+
+.homie a:hover:after {
+    content: attr(data-hover);
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 200;
+    text-align: center;
+}
