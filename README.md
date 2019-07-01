@@ -23,5 +23,5 @@ uofbonn2.JPG
 
 Though not all of above was used in my website 
 
-There is a problem with pics in the profile.html file, which I haven not fixed.
+
 
